@@ -1,8 +1,6 @@
-# web-dev-starter
+# M3.2 Lab
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This project involves creating a well-structured HTML document to represent a formal letter. The letter is a response from Dr. Eleanor Gaye, a research fellow at the University of Awesome, to a prospective PhD student, Miss Eileen Dover, regarding her application to the university. The letter is intended to be hosted on the university's intranet and adheres to modern web standards, including proper HTML semantics, accessibility, and clean code practices.
 
 ## Getting Started
 
@@ -19,11 +17,3 @@ It is recommended to use the VSCode Live Server extension to run the project
 locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
 you do not need to setup a local server to run the project.
-
-## Testing
-
-To run the tests for the project, run the following command:
-
-```bash
-npm test
-```
